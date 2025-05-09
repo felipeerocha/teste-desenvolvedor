@@ -7,7 +7,7 @@ O programa é uma aplicação de console em C# com .NET, que oferece um menu com
 
 ---
 
-## 🛠️ Tecnologias Utilizadas/Necessárias para execulção.
+## 🛠️ Tecnologias Utilizadas/Necessárias para execução.
 
 - C#
 - .NET SDK 6.0 ou superior
