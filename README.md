@@ -19,12 +19,12 @@ O programa é uma aplicação de console em C# com .NET, que oferece um menu com
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/felipeerocha/teste-desenvolvedor.git
    ```
 
 2. **Acesse a pasta do projeto**:
    ```bash
-   cd nome-do-repositorio
+   cd test-targetSistemas
    ```
 
 3. **Execute o projeto com o .NET CLI**:
